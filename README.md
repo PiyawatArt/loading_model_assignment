@@ -27,10 +27,6 @@ Car model: Morris Minor by ArtFletch
 
 
 ## Demo Video
-[![Watch the video](https://raw.githubusercontent.com/PiyawatArt/loading_model_assignment/main/thumbnail.png)](https://raw.githubusercontent.com/PiyawatArt/loading_model_assignment/main/demo_video.mp4)
-
-
-
 https://github.com/user-attachments/assets/87f504b8-a44f-4616-bc2a-1fca1481c9b3
 
 
