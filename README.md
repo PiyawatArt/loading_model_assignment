@@ -20,6 +20,7 @@ When the car hits a ball, the ball disappears, the score increases, and a new ba
 1. Clone this repository.
 2. Build and run with your OpenGL setup (GLFW, GLAD, GLM, stb_image).  
 3. Place your models in: resources/objects/
+4. Run the .cpp file:
 
 ## Credits
 Car model: Morris Minor by ArtFletch
