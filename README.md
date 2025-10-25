@@ -25,4 +25,8 @@ When the car hits a ball, the ball disappears, the score increases, and a new ba
 ## Credits
 Car model: Morris Minor by ArtFletch
 
+## Demo Video
+[![Watch the video]
+(https://raw.githubusercontent.com/PiyawatArt/loading_model_assignment/main/thumbnail.png)](https://raw.githubusercontent.com/PiyawatArt/loading_model_assignment/main/demo_video.mp4)
+
 
